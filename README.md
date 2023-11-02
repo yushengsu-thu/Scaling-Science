@@ -1,14 +1,15 @@
 # Scaling-Science
 In this field, researchers are devoted to pursuing scientific principles bebind scaling and use them to guide next-generation model development, where the subareas include data engineering, long context, efficiency, and science of language models. Currently, there are two primary branches of scaling science: <b>scale prediction</b> and <b>dynamic training</b>.
 
-## Scale Prediction
+## Dynamic Training
 - Pythia: A Suite for Analyzing Large Language Models (reproducible and release many checkpoint) [bad]
 - Predicable memorization: Emergent and Predictable Memorization in Large Language Models [bad]
 - Training Trajectories of Language Models Across Scales
 - Memorization Without Overfitting: Analyzing the Training Dynamics of Large Language Models
 
 
-## Dynamic Training
+
+## Scale Prediction
 - Emergent Abilities of Large Language Models (Supportive: Accuracy in some tasks [especially on unnatural in-context learning tasks. Time:5:04] suddenly breakthrough (not obey scaling-law curve), why they will suddenly emerge remain a question)
   - Emergent Abilities Definition: An ability is emergent if it is not present in smaller models but is present in larger models. 
 - Are Emergent Abilities of Large Language Models a Mirage? (UnSupportive: Emerging ability is from metric evaluation error) [how to choose metric to evalue emergant ability is a problem. In this paper, they propose a metric, but the results seeme not that right.]
