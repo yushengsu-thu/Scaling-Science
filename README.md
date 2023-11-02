@@ -18,8 +18,8 @@ In this field, researchers are devoted to pursuing scientific principles bebind 
 - - - - Stable training: 擴展過程中，超餐的穩定性 (試過好) : Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer (25:00-27:00)
 
 
-- Prediction Scaling
-- Emerge 
+- Prediction Scaling (topic):
+- Ability Emerge 
 - Grokking: Generalization Beyond Overfitting on Small Algorithmic Dataset (33:00)
 - Double Decent: https://zhuanlan.zhihu.com/p/419244046
-- Ability emerging —> 
+
