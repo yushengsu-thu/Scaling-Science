@@ -9,7 +9,10 @@ In this field, researchers are devoted to pursuing scientific principles bebind 
 
 
 # Dynamic Training
+- Unlock Predictable Scaling from Emergent Abilities (Best optimal (data:scale) ration)
 - Emergent Abilities of Large Language Models (Supportive: Accuracy in some tasks [especially on unnatural in-context learning tasks. Time:5:04] suddenly breakthrough (not obey scaling-law curve), why they will suddenly emerge)
+  - Emergent Abilities Definition: An ability is emergent if it is not present in smaller models but is present in larger models.
+
 - Are Emergent Abilities of Large Language Models a Mirage? (UnSupportive: Emerging ability is from metric selection)
 - Are Emergent Abilities in Large Language Models just In-Context Learning? (UnSupportive: Emerging ability is related to in-context learning)
 - UNLOCK PREDICTABLE SCALING FROM EMERGENT ABILITIES (Supportive: [pass-and-tune-method] task accuracy can predict), (fixed data ratio)
