@@ -25,7 +25,7 @@ In this field, researchers are devoted to pursuing scientific principles bebind 
 - - - - (Scale law prediction application: 20:57~23:30) Well-tuned a small model —> scale up to LLM
 - - - - Stable training: During the scaling process, hyper-parameters are not to be manualy tuned (see github page's demo) : Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer (25:00-27:00)
 - Unlock Predictable Scaling from Emergent Abilities
-  - (Best optimal (data:scale) ration)
+  - (Best data/scale ration)
 
 ## Exploring Topics
 - Prediction Scaling (topic):
