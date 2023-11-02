@@ -27,8 +27,7 @@ In this field, researchers are devoted to pursuing scientific principles bebind 
 - Unlock Predictable Scaling from Emergent Abilities
   - (Best data/scale ration)
 
-## Exploring Topics
-- Prediction Scaling (topic):
+## Something More Than Prediction Scaling (Exploring Topics)
 - Ability Emerge 
 - Grokking: Generalization Beyond Overfitting on Small Algorithmic Dataset (33:00)
 - Double Decent: https://zhuanlan.zhihu.com/p/419244046
