@@ -17,7 +17,7 @@ In this field, researchers are devoted to pursuing scientific principles bebind 
 - (Scaling Laws) Scaling Laws for Neural Language Models
 - (Chinchilla) Training Compute-Optimal Large Language Models (There is an optimal ratio for data and scale on different size models.)
 - - - - (Scale law prediction application: 20:57~23:30) Well-tuned a small model —> scale up to LLM
-- - - - Stable training: 擴展過程中，超餐的穩定性 (試過好) : Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer (25:00-27:00)
+- - - - Stable training: During the scaling process, hyper-parameters are not to be manualy tuned (see github page's demo) : Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer (25:00-27:00)
 - Unlock Predictable Scaling from Emergent Abilities (Best optimal (data:scale) ration)
 
 ## Exploring Topics
